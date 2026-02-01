@@ -40,7 +40,7 @@ bash
 jupyter notebook Insights_into_Wine_Quality_through_Exploratory_Data_Analysis.ipynb
 
 # 📈 Future Work
-Build predictive models (e.g., Random Forest, XGBoost)
+Build predictive models (e.g., Random Forest, XGBoost) .
 
 Compare regression vs classification approaches
 
